@@ -1,7 +1,7 @@
 ### Hi 👋, Im Juan!
 
 #### :iphone: Connect with me
-Twitter: https://twitter.com/JuanKa_Grajales
+**Twitter:** https://twitter.com/JuanKa_Grajales
 
 Constructive feedback is always welcome and encouraged.
 Thank you for visiting.
