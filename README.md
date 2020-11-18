@@ -6,7 +6,7 @@ Constructive feedback is always welcomed and encouraged.
 Thank you for visiting.
 
 #### :iphone: Connect with me
-**Twitter:** https://twitter.com/JuanKa_Grajales                                                                                                                       **LinkedIn:** https://www.linkedin.com/in/juan-grajales-7557b5b2/
+**Twitter:** https://twitter.com/JuanKa_Grajales \n                                                                                                                       **LinkedIn:** https://www.linkedin.com/in/juan-grajales-7557b5b2/
 
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
