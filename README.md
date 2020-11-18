@@ -1,6 +1,6 @@
 ### Hi 👋, Im Juan!
 
-I am a self-taught developer early in my career. I'm still learning but learning by doing will help me overcome the steep learning curve. 
+I am a self-taught developer early in my career. I'm still learning but striving to overcome the steep learning curve by doing fun projects. 
 
 Constructive feedback is always welcome and encouraged.
 Thank you for visiting.
