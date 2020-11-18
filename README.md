@@ -7,6 +7,7 @@ Thank you for visiting.
 
 #### :iphone: Connect with me
 **Twitter:** https://twitter.com/JuanKa_Grajales
+
 **LinkedIn:** https://www.linkedin.com/in/juan-grajales-7557b5b2/
 
 <!--
