@@ -2,7 +2,7 @@
 
 I am a self-taught developer early in my career. I'm still learning but striving to overcome the steep learning curve by doing fun projects. Interested in building applications using cloud services with languages such as Java, Python, C#. 
 
-Constructive feedback is always welcome and encouraged.
+Constructive feedback is always welcomed and encouraged.
 Thank you for visiting.
 
 #### :iphone: Connect with me
