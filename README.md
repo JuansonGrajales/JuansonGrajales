@@ -1,6 +1,7 @@
 ### Hi 👋, Im Juan!
 
 #### :iphone: Connect with me
+Twitter: https://twitter.com/JuanKa_Grajales
 
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
