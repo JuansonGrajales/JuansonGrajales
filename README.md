@@ -1,6 +1,6 @@
 ### Hi 👋, Im Juan!
 
-## :iphone: Connect with me
+#### :iphone: Connect with me
 
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
