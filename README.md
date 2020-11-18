@@ -1,10 +1,13 @@
 ### Hi 👋, Im Juan!
 
-#### :iphone: Connect with me
-**Twitter:** https://twitter.com/JuanKa_Grajales
+I am a self-taught developer early in my career. I'm still learning but learning by doing will help me overcome the steep learning curve. 
 
 Constructive feedback is always welcome and encouraged.
 Thank you for visiting.
+
+#### :iphone: Connect with me
+**Twitter:** https://twitter.com/JuanKa_Grajales
+
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
