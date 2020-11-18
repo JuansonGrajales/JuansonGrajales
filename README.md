@@ -3,6 +3,8 @@
 #### :iphone: Connect with me
 Twitter: https://twitter.com/JuanKa_Grajales
 
+Constructive feedback is always welcome and encouraged.
+Thank you for visiting.
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
