@@ -19,7 +19,7 @@ Thank you for visiting.
 <!-- BLOG-POST-LIST:END -->
 
 <!--These features (stats) was made possible by https://github.com/anuraghazra/github-readme-stats-->
-<img align="left" alt="Juan's github stats" src=https://github-readme-stats.vercel.app/api?username=JuansonGrajales&show_icons=true&theme=dark \>
+<img align="left" alt="Juan's github stats" src="https://github-readme-stats.vercel.app/api?username=JuansonGrajales&show_icons=true&theme=dark" \>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuansonGrajales&layout=compact)]
 <!--
