@@ -22,7 +22,6 @@ Thank you for visiting.
 <img align="left" alt="Juan's github stats" src="https://github-readme-stats.vercel.app/api?username=JuansonGrajales&show_icons=true" />
 <br />
 <br />
-<img align="left" alt="Juan's language usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansonGrajales&layout=compact" />
 
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
