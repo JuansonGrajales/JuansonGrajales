@@ -22,6 +22,7 @@ Thank you for visiting.
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
 <!-- BLOG-POST-LIST:END -->
 
+
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
