@@ -9,6 +9,10 @@ Thank you for visiting.
 **Twitter:** https://twitter.com/JuanKa_Grajales/                                                                                                                     
 **LinkedIn:** https://www.linkedin.com/in/juan-grajales-7557b5b2/
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=JuansonGrajales&hide_title=true&hide_border=true&langs_count=5)
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -18,11 +22,6 @@ Thank you for visiting.
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
 <!-- BLOG-POST-LIST:END -->
 
-<!--These features (stats) was made possible by https://github.com/anuraghazra/github-readme-stats-->
-<img align="left" alt="Juan's github stats" src="https://github-readme-stats.vercel.app/api?username=JuansonGrajales&show_icons=true" />
-<br />
-<br />
-<img align="left" alt="Juan's language usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansonGrajales&layout=compact" />
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
