@@ -18,8 +18,7 @@ Thank you for visiting.
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
 <!-- BLOG-POST-LIST:END -->
 
-[![Juan's github stats](https://github-readme-stats.vercel.app/api?JuansonGrajales=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuansonGrajales)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JuansonGrajales/JuansonGrajales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
