@@ -1,13 +1,10 @@
 ### Hi 👋, I'm Juan!
 
-I am a self-taught developer early in my career. I'm still learning but striving to overcome the steep learning curve by doing fun projects. Interested in building applications using cloud services with languages such as Java, Python, C#. 
-
-Constructive feedback is always welcomed and encouraged.
-Thank you for visiting.
+Full-Stack Software Developer with a background in Economics and Finance. Experience in OOP programming, Python, Typescript, Angular, HTML, CSS layout, Git/GitFlow/GitHub/Bitbucket, NodeJS, Bootstrap, REST API development, and CI/CD deployment. Motivated to learn and build great things with great people.
 
 #### :iphone: Connect with me
 **Twitter:** https://twitter.com/JuanKa_Grajales/                                                                                                                     
-**LinkedIn:** https://www.linkedin.com/in/juan-grajales-7557b5b2/
+**LinkedIn:** https://www.linkedin.com/in/juan-carlos-grajales/
 
 📊 **This week I spent my time on**
 
