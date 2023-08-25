@@ -2,10 +2,9 @@
 
 Full-Stack Software Developer with a background in Economics and Finance. Experience in OOP programming, Python, Typescript, Angular, HTML, CSS layout, Git/GitFlow/GitHub/Bitbucket, NodeJS, Bootstrap, REST API development, and CI/CD deployment. Motivated to learn and build great things with great people.
 
-#### :iphone: Connect with me
-**Twitter:** https://twitter.com/JuanKa_Grajales/                                                                                                                     
-**LinkedIn:** https://www.linkedin.com/in/juan-carlos-grajales/
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-grajales/) &nbsp;&nbsp;
+#### :iphone: Connect with me                                                                                                               
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-grajales/)&nbsp;&nbsp;
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuanKa_Grajales/)&nbsp;&nbsp;
 
 📊 **This week I spent my time on**
 
