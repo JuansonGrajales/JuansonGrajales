@@ -5,6 +5,7 @@ Full-Stack Software Developer with a background in Economics and Finance. Experi
 #### :iphone: Connect with me
 **Twitter:** https://twitter.com/JuanKa_Grajales/                                                                                                                     
 **LinkedIn:** https://www.linkedin.com/in/juan-carlos-grajales/
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-grajales/) &nbsp;&nbsp;
 
 📊 **This week I spent my time on**
 
